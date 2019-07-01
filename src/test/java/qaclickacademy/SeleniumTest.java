@@ -18,4 +18,9 @@ public void ElementsSuite()
 {
 	System.out.println("ElementsSUITE");
 }
+@Test
+public void ElementsSuite1()
+{
+	System.out.println("ElementsSUITE1");
+}
 }
