@@ -13,4 +13,9 @@ public void ElementsSui()
 {
 	System.out.println("ElementsSUI");
 }
+@Test
+public void ElementsSuite()
+{
+	System.out.println("ElementsSUITE");
+}
 }

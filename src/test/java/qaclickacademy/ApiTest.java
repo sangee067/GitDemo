@@ -15,4 +15,9 @@ public void deleteTwitter()
 {
 	System.out.println("Twitter");
 }
+@Test
+public void deleteFB()
+{
+	System.out.println("FB");
+}
 }
